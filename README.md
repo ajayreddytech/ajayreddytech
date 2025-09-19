@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 About Me
-- 💼 **Professional Experience:** Built high-performance **web apps**, optimized **databases**, secured **production APIs**, improved **LLM prompt accuracy**, streamlined **AI workflows**, and developed predictive **ML models** at **NeuroLume**, **Outlier.ai**, **Research & Innovation Lambton College**, and **GDSC LCIT**.  
-- 🚀 **Hackathon Projects:** Developed **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge, Toronto).  
-- 🏆 **Leadership Roles:** Led **tech communities** and **hackathons**, mentoring 50+ members, running 12+ **mentorship sessions**, flagship hackathons, and **campus campaigns** at **GDSC LCIT** and **Neo Financial**, boosting engagement and student signups by 40–60%.  
-- 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision, AWS Summit, Deer Hacks**, ensuring smooth execution & high satisfaction.  
-- 📫 **Reach me on** [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | [Portfolio](https://ajayhackz.netlify.app/) | [Hackathons](https://ajayhacks.netlify.app/) | [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | [Email](mailto:ajayreddy.tech@gmail.com)
+- 💼 **Professional Experience:** Full Stack Developer @ **NeuroLume**, and AI/ML Intern @ **Research & Innovation Lambton College**.  
+- 🚀 **Hackathon Projects:** **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge).  
+- 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
+- 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
+- 📫 **Links:** [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | [Portfolio](https://ajayhackz.netlify.app/) | [Hackathons](https://ajayhacks.netlify.app/) | [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | [Email](mailto:ajayreddy.tech@gmail.com) | [Resume](https://drive.google.com/file/d/1CDDuWoajSrRTSLSnPwEDvmu4plxpaIVq/view?usp=drive_link)
 
 
 ---
