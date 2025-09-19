@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-- 💼 **Professional:** Built high-performance **web apps**, optimized **databases**, secured **production APIs**, improved **LLM prompt accuracy**, streamlined **AI workflows**, and developed predictive **ML models** at **NeuroLume**, **Outlier.ai**, **Research & Innovation Lambton College**, and **GDSC LCIT**.  
-- 🚀 **Hackathons:** Developed **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge, Toronto).  
-- 🏆 **Leadership:** Led **tech communities** and **hackathons**, mentoring 50+ members, running 12+ **mentorship sessions**, flagship hackathons, and **campus campaigns** at **GDSC LCIT** and **Neo Financial**, boosting engagement and student signups by 40–60%.  
-- 🤝 **Volunteer:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision, AWS Summit, Deer Hacks**, ensuring smooth execution & high satisfaction.  
+- 💼 **Professional Experience:** Built high-performance **web apps**, optimized **databases**, secured **production APIs**, improved **LLM prompt accuracy**, streamlined **AI workflows**, and developed predictive **ML models** at **NeuroLume**, **Outlier.ai**, **Research & Innovation Lambton College**, and **GDSC LCIT**.  
+- 🚀 **Hackathon Projects:** Developed **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge, Toronto).  
+- 🏆 **Leadership Roles:** Led **tech communities** and **hackathons**, mentoring 50+ members, running 12+ **mentorship sessions**, flagship hackathons, and **campus campaigns** at **GDSC LCIT** and **Neo Financial**, boosting engagement and student signups by 40–60%.  
+- 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision, AWS Summit, Deer Hacks**, ensuring smooth execution & high satisfaction.  
 - 📫 **Reach me on** [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | [Portfolio](https://ajayhackz.netlify.app/) | [Hackathons](https://ajayhacks.netlify.app/) | [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | [Email](mailto:ajayreddy.tech@gmail.com)
 
 
@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddyfsd&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddyfsd&theme=tokyonight)  
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddyfsd&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddyfsd&layout=compact&theme=tokyonight)  
 
 ---
 
