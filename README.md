@@ -1,8 +1,6 @@
-# Hi, I'm Ajay 👋  
+# Hi, I'm Ajay Reddy👋  
 
-🎓 MSc in Artificial Intelligence & Machine Learning (UofT)  
-💻 Full Stack Developer | AI & Cloud Enthusiast | Hackathon Builder  
-☁️ Cloud & DevOps | 🤖 AI/ML | 🕸️ Web Development | 📊 Data Science  
+🎓 IBM Certified | 💻 Full Stack Developer (MERN, React, Node, TypeScript) | ☁️ Cloud & DevOps (AWS, Docker, CI/CD) | 🤖 AI/ML Pro | 🔗 REST APIs, GraphQL & WebSockets | 🏗️ System Design & Scalable Apps | 🌍 3x Tech Ambassador | 🏆 7x Hackathons 
 
 ---
 
@@ -19,7 +17,7 @@
 
 | **Category** | **Skills** |
 |--------------|------------|
-| ☁️ **Cloud & DevOps** | [AWS](https://img.shields.io/badge/-AWS-05122A?logo=amazon-aws) [EC2](https://img.shields.io/badge/-EC2-05122A?logo=amazon-aws) [S3](https://img.shields.io/badge/-S3-05122A?logo=amazon-s3) [Lambda](https://img.shields.io/badge/-Lambda-05122A?logo=aws-lambda) [CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?logo=githubactions) [Docker](https://img.shields.io/badge/-Docker-05122A?logo=docker) [GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?logo=githubactions) [Jenkins](https://img.shields.io/badge/-Jenkins-05122A?logo=jenkins) |
+| ☁️ **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-05122A?logo=amazon-aws) ![EC2](https://img.shields.io/badge/-EC2-05122A?logo=amazon-aws) [S3](https://img.shields.io/badge/-S3-05122A?logo=amazon-s3) [Lambda](https://img.shields.io/badge/-Lambda-05122A?logo=aws-lambda) [CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?logo=githubactions) [Docker](https://img.shields.io/badge/-Docker-05122A?logo=docker) [GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?logo=githubactions) [Jenkins](https://img.shields.io/badge/-Jenkins-05122A?logo=jenkins) |
 | 🖥️ **Front End** | [React](https://img.shields.io/badge/-React-05122A?logo=react) [Redux](https://img.shields.io/badge/-Redux-05122A?logo=redux) [TypeScript](https://img.shields.io/badge/-TypeScript-05122A?logo=typescript) [PWA](https://img.shields.io/badge/-PWA-05122A?logo=pwa) [HTML5](https://img.shields.io/badge/-HTML5-05122A?logo=html5) [CSS3](https://img.shields.io/badge/-CSS3-05122A?logo=css3) [Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?logo=bootstrap) [TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?logo=tailwind-css) |
 | ⚙️ **Back End** | [Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=node.js) [Express.js](https://img.shields.io/badge/-Express.js-05122A?logo=express) [Flask](https://img.shields.io/badge/-Flask-05122A?logo=flask) [Firebase](https://img.shields.io/badge/-Firebase-05122A?logo=firebase) [GraphQL](https://img.shields.io/badge/-GraphQL-05122A?logo=graphql) [Helmet.js](https://img.shields.io/badge/-Helmet.js-05122A?logo=node.js) [OAuth](https://img.shields.io/badge/-OAuth-05122A?logo=auth0) [Passport.js](https://img.shields.io/badge/-Passport.js-05122A?logo=passport) [Postman](https://img.shields.io/badge/-Postman-05122A?logo=postman) [REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?logo=api) [WebSockets](https://img.shields.io/badge/-WebSockets-05122A?logo=socket.io) [System Design](https://img.shields.io/badge/-System%20Design-05122A?logo=arch-linux) |
 | 🗃️ **Databases** | [DocumentDB](https://img.shields.io/badge/-DocumentDB-05122A?logo=amazon-dynamodb) [DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?logo=amazondynamodb) [MongoDB](https://img.shields.io/badge/-MongoDB-05122A?logo=mongodb) [PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?logo=postgresql) [SQL](https://img.shields.io/badge/-SQL-05122A?logo=sqlite) |
@@ -63,20 +61,4 @@ _Early detection model achieving 82% precision on 10,000+ X-rays_
 🔹 Tech: TensorFlow, Flask, Scalable Deployment  
 🔹 [Repo](link) | [Demo](link)  
 
----
 
-## 🌐 Connect With Me
-![visitors](https://komarev.com/ghpvc/?username=ajayreddyfsd&label=Profile%20views&color=0e75b6&style=flat)  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?logo=linkedin)](your-link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?logo=vercel)](your-site)  
-[![Email](https://img.shields.io/badge/-Email-05122A?logo=gmail)](mailto:ajayreddy.tech@gmail.com)  
-
----
-
-## 💡 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐️ From [Ajay Kumar Reddy](https://github.com/ajayreddyfsd)
