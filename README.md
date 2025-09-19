@@ -5,11 +5,12 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Building applications at the intersection of **AI, Cloud, and Web Development**  
-- 🌱 Currently exploring **System Design, Advanced ML, and Scalable Cloud Architectures**  
-- 💡 Passionate about **AI Agents, Hackathons, and Developer Communities**  
-- 🏆 Multiple Hackathon wins & community leadership roles (GDSC, Spur Hacks, UofT Hacks)  
-- 📫 Reach me on [LinkedIn](your-link) | [Portfolio](your-site) | [Email](mailto:ajayreddy.tech@gmail.com)  
+- 💼 **Professional:** Built high-performance **web apps**, optimized **databases**, secured **production APIs**, improved **LLM prompt accuracy**, streamlined **AI workflows**, and developed predictive **ML models** at **NeuroLume**, **Outlier.ai**, **Research & Innovation Lambton College**, and **GDSC LCIT**.  
+- 🚀 **Hackathons:** Developed **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge, Toronto).  
+- 🏆 **Leadership:** Led **tech communities** and **hackathons**, mentoring 50+ members, running 12+ **mentorship sessions**, flagship hackathons, and **campus campaigns** at **GDSC LCIT** and **Neo Financial**, boosting engagement and student signups by 40–60%.  
+- 🤝 **Volunteer:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision, AWS Summit, Deer Hacks**, ensuring smooth execution & high satisfaction.  
+- 📫 **Reach me on** [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | [Portfolio](https://ajayhackz.netlify.app/) | [Hackathons](https://ajayhacks.netlify.app/) | [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | [Email](mailto:ajayreddy.tech@gmail.com)
+
 
 ---
 
@@ -31,7 +32,7 @@
 ## 📊 GitHub Stats
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddyfsd&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddyfsd&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddyfsd&layout=compact&theme=tokyonight)  
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddyfsd&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -41,25 +42,5 @@
 ---
 
 ## 📈 Activity
-![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddyfsd&theme=tokyo-night)
-
----
-
-## 📌 Featured Projects
-
-### PresenceAI – Real-Time Body Language Analyzer 🎤  
-_AI-powered tool analyzing posture & gestures during presentations_  
-🔹 Tech: OpenCV, MediaPipe, MongoDB, Streamlit  
-🔹 [Repo](link) | [Demo](link)  
-
-### Retropix – AI-Powered Pixel Art Experience 🖼️  
-_Transforms user reflections into immersive pixel art with AI-driven storytelling_  
-🔹 Tech: React, Cohere API, Firebase  
-🔹 [Repo](link) | [Demo](link)  
-
-### Lung Cancer Detection with TensorFlow 🫁  
-_Early detection model achieving 82% precision on 10,000+ X-rays_  
-🔹 Tech: TensorFlow, Flask, Scalable Deployment  
-🔹 [Repo](link) | [Demo](link)  
-
+![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddyfsd&theme=tokyo-night&range=year)
 
