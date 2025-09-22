@@ -9,8 +9,9 @@
 - 🚀 **Hackathon Projects:** **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge).  
 - 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
-- 📫 **Portfolio & Links:** [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | [Portfolio](https://ajayhackz.netlify.app/) | [Hackathons](https://ajayhacks.netlify.app/) | [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | [Email](mailto:ajayreddy.tech@gmail.com) | [Resume](https://drive.google.com/file/d/1CDDuWoajSrRTSLSnPwEDvmu4plxpaIVq/view?usp=drive_link)
-- 📅 **Schedule a Coffe Chat:** [Calendly](https://calendly.com/ajayreddyfsd)
+- 📫 **Portfolio & Links:**  
+  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | 📧 [Email](mailto:ajayreddy.tech@gmail.com) | 📄 [Resume](https://drive.google.com/file/d/1CDDuWoajSrRTSLSnPwEDvmu4plxpaIVq/view?usp=drive_link) | 🔗 [LinkTree](https://linktr.ee/ajayreddytech)
+- 📅 **Schedule a Coffee Chat:** ☕ [Calendly](https://calendly.com/ajayreddytech)
 
 
 ---
