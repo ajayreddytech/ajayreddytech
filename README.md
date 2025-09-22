@@ -10,7 +10,7 @@
 - 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
 - 📫 **Portfolio & Links:**  
-  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | 📧 [Email](mailto:ajayreddy.tech@gmail.com) | 📄 [Resume](https://drive.google.com/file/d/1CDDuWoajSrRTSLSnPwEDvmu4plxpaIVq/view?usp=drive_link) | 🔗 [LinkTree](https://linktr.ee/ajayreddytech)
+  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | 📧 [Email](mailto:ajayreddy.tech@gmail.com) | 📄 [Resume](https://tinyurl.com/2dbh8v95) | 🔗 [LinkTree](https://linktr.ee/ajayreddytech)
 - 📅 **Schedule a Coffee Chat:** ☕ [Calendly](https://calendly.com/ajayreddytech)
 
 
@@ -32,17 +32,17 @@
 ---
 
 ## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddyfsd&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddyfsd&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddyfsd&layout=compact&theme=tokyonight)  
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddytech&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddytech&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddytech&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=ajayreddyfsd&theme=tokyonight&margin-w=10&margin-h=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=ajayreddytech&theme=tokyonight&margin-w=10&margin-h=10)
 
 ---
 
 ## 📈 Activity
-![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddyfsd&theme=tokyo-night&range=year)
+![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddytech&theme=tokyo-night&range=year)
 
