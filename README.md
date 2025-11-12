@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Reddy👋  
 
-🎓 IBM Certified | 💻 Full Stack Developer (MERN, React, Node, TypeScript) | ☁️ Cloud & DevOps (AWS, Docker, CI/CD) | 🤖 AI/ML Practitioner | 🔗 REST APIs, GraphQL & WebSockets | 🏗️ System Design & Scalable Apps | 🌍 3x Tech Ambassador | 🏆 7x Hackathons 
+🥇 IBM Certified Full Stack Software Engineer | ⚛️ MERN Stack, React.js, TypeScript, Node.js | ☁️ AWS, Docker, CI/CD | 🧠 Cloud-Native and AI-Driven Product Developer | ✨ Transforming Ideas into Scalable Enterprise Solutions
 
 ---
 
