@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me
-- 💼 **Professional Experience:** Full Stack Developer @ **NeuroLume**, and AI/ML Intern @ **Research & Innovation Lambton College**.  
-- 🚀 **Hackathon Projects:** **PresenceAI** (SPUR Hacks, Waterloo), **Retropix** (UofT Hacks, Toronto), **Lung Cancer Detection** (Google Solution Challenge).  
+- 💼 **Professional Experience:** Full Stack Developer @ **NeuroLume**, Prev Full Stack Developer @ **Research & Innovation Lambton College**.  
+- 🚀 **Hackathon Projects:** [**PresenceAI**](https://devpost.com/software/presenceai) (SPUR Hacks, Waterloo), [**Retropix**](https://devpost.com/software/retropix) (UofT Hacks, Toronto), [**Lung Cancer Detection**](https://devfolio.co/projects/lung-cancer-detection-system-8601) (Google Solutions Challenge` 2024).  
 - 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
 
