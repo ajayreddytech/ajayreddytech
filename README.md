@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Reddy👋  
 
-🎓 IBM Certified Full Stack Software Engineer | ⚛️ MERN Stack, React.js, TypeScript, Node.js | ☁️ AWS, Docker, CI/CD | 🧠 Cloud-Native and AI-Driven Product Developer | ✨ Transforming Ideas into Scalable Enterprise Solutions
+IBM Certified Full Stack Software Developer
 
 ---
 
@@ -11,7 +11,7 @@
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
 
 - 📫 **Portfolio & Links:**  
-  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | 📄 [Resume](https://drive.google.com/file/d/1I4Xx6e9_z7T0TkM3scHeFHvdLxt1OsyB/view?usp=sharing) | ⚡[LeetCode](https://leetcode.com/u/_ajayreddytech/) | 🔗 [LinkTree](https://linktr.ee/ajayreddytech)
+  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayreddy.netlify.app/) | ⚡[Academic Projects](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | 📄 [Resume](https://drive.google.com/file/d/1UsJgTZZ91RMSc0_nkhMMTYVhGcbOayhd/view?usp=drive_link) | ⚡[LeetCode](https://leetcode.com/u/_ajayreddytech/) | 🔗 [LinkTree](https://linktr.ee/ajayreddytech)
 
 - 📫 **𝗘𝗺𝗮𝗶𝗹:** ajayreddy.tech@gmail.com
 - 📅 **Schedule a Coffee Chat:** ☕ [Calendly](https://calendly.com/ajayreddytech)
