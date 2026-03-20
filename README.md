@@ -35,17 +35,17 @@ IBM Certified Full Stack Software Developer
 ---
 
 ## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddytech&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddytech&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddytech&layout=compact&theme=tokyonight)  
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddytech&show_icons=true&theme=tokyonight&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddytech&theme=tokyonight&cache_seconds=1800&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddytech&layout=compact&theme=tokyonight&count_private=true)  
 
 ---
 
 ## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=ajayreddytech&theme=tokyonight&margin-w=10&margin-h=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=ajayreddytech&theme=tokyonight&margin-w=10&margin-h=10&count_private=true)
 
 ---
 
 ## 📈 Activity
-![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddytech&theme=tokyo-night&range=year)
+![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddytech&theme=tokyo-night&range=year&count_private=true)
 
