@@ -1,18 +1,17 @@
 # Hi, I'm Ajay Reddy👋  
 
-IBM Certified Full Stack Software Developer
+AI-Driven Full Stack Software Developer | Building Scalable Backend & APIs with AI/ML Integration | IBM Certified 
 
 ---
 
 ## 🚀 About Me
-- 💼 **Professional Experience:** Full Stack Developer @ **NeuroLume**, Prev Full Stack Developer @ **Research & Innovation Lambton College**.  
+- 💼 **Professional Experience:** Full Stack Software Developer @ **NeuroLume**.  
 - 🚀 **Hackathon Projects:** [**PresenceAI**](https://devpost.com/software/presenceai) (SPUR Hacks, Waterloo), [**Retropix**](https://devpost.com/software/retropix) (UofT Hacks, Toronto), [**Lung Cancer Detection**](https://devfolio.co/projects/lung-cancer-detection-system-8601) (Google Solutions Challenge` 2024).  
 - 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
 
 - 📫 **Portfolio & Links:**  
-  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayreddy.netlify.app/) | ⚡[Academic Projects](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing) | 📄 [Resume](https://drive.google.com/file/d/1UsJgTZZ91RMSc0_nkhMMTYVhGcbOayhd/view?usp=drive_link) | ⚡[LeetCode](https://leetcode.com/u/_ajayreddytech/) | 🔗 [LinkTree](https://linktr.ee/ajayreddytech)
-
+  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayreddy.netlify.app/) | ⚡[Academic Projects](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing)
 - 📫 **𝗘𝗺𝗮𝗶𝗹:** ajayreddy.tech@gmail.com
 - 📅 **Schedule a Coffee Chat:** ☕ [Calendly](https://calendly.com/ajayreddytech)
 
