@@ -10,8 +10,7 @@ AI-Driven Full Stack Software Developer | Building Scalable Backend & APIs with 
 - 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
 
-- 📫 **Portfolio & Links:**  
-  💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayreddy.netlify.app/) | ⚡[Academic Projects](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing)
+- 📫 **Portfolio & Links:** 💼 [LinkedIn](https://www.linkedin.com/in/ajayreddytech/) | 🌐 [Portfolio](https://ajayreddy.netlify.app/) | ⚡[Academic Projects](https://ajayhackz.netlify.app/) | 🏆 [Hackathons](https://ajayhacks.netlify.app/) | 🎓 [Certifications](https://drive.google.com/drive/folders/1UURMV6IbZpyhE84iOi6OcfKV76dvTlB7?usp=sharing)
 - 📫 **𝗘𝗺𝗮𝗶𝗹:** ajayreddy.tech@gmail.com
 - 📅 **Schedule a Coffee Chat:** ☕ [Calendly](https://calendly.com/ajayreddytech)
 
