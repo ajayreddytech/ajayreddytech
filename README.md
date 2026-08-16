@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Kumar Reddy👋  
 
-AI-Driven Full Stack Software Developer | Building Scalable Backend & APIs with AI/ML Integration | IBM Certified | MERN Stack | React.js | TypeScript | Node.js | AWS | Docker
+AI-Driven Full Stack Software Developer | Building Scalable Apps with AI/ML Integration | Top 100 Google SC Finalist | IBM & AWS Certified | MERN | React.js | Next.js | TypeScript | Node.js | Python | Java | GCP | Docker
 
 ---
 
