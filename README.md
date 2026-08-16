@@ -6,7 +6,7 @@ AI-Driven Full Stack Software Developer | Building Scalable Backend & APIs with 
 
 ## 🚀 About Me
 - 💼 **Professional Experience:** Full Stack Software Developer @ **NeuroLume**.  
-- 🚀 **Hackathon Projects:** [**PresenceAI**](https://devpost.com/software/presenceai) (Google Solutions Challenge), [**Retropix**](https://devpost.com/software/retropix) (UofT Hacks, University of Toronto), [**Lung Cancer Detection**](https://devfolio.co/projects/lung-cancer-detection-system-8601) (Hack LCIT, Lambton College).  
+- 🚀 **Hackathon Projects:** [**PresenceAI**](https://devpost.com/software/presenceai) (Google Solutions Challenge, (Global Top 100 Finalist)), [**Retropix**](https://devpost.com/software/retropix) (UofT Hacks, University of Toronto, (Winner - AI & Creative Tech Track)), [**Lung Cancer Detection**](https://devfolio.co/projects/lung-cancer-detection-system-8601) (Hack LCIT, Lambton College).  
 - 🏆 **Leadership Roles:** Led **tech communities** and **hackathons** at **GDSC LCIT** and campus ambassador for **Neo Financial** and **Fellowise**.  
 - 🤝 **Volunteer Roles:** Coordinated **tech events & hackathons** including **QueerTech Leaders Summit, CIX Summit, Hack the Valley, GDG DevFest, Elevate Festival, Collision Conf, AWS Summit, Deer Hacks**.
 
