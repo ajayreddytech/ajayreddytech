@@ -28,22 +28,3 @@ AI-Driven Full Stack Software Developer | Building Scalable Apps with AI/ML Inte
 | 💻 **Programming** | ![Python](https://img.shields.io/badge/-Python-05122A?logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?logo=javascript) ![Java](https://img.shields.io/badge/-Java-05122A?logo=java) |
 | 🧠 **Machine Learning** | ![Pandas](https://img.shields.io/badge/-Pandas-05122A?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-05122A?logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?logo=python) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?logo=scikitlearn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?logo=tensorflow) ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?logo=opencv) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?logo=tensorflow) |
 | 🤖 **Artificial Intelligence** | ![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?logo=huggingface) ![LLM Testing](https://img.shields.io/badge/-LLM%20Testing-05122A?logo=openai) ![LM Studio](https://img.shields.io/badge/-LM%20Studio-05122A?logo=ai) ![OpenAI Playground](https://img.shields.io/badge/-OpenAI%20Playground-05122A?logo=openai) ![Promptfoo](https://img.shields.io/badge/-Promptfoo-05122A?logo=openai) |
-
-
----
-
-## 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayreddytech&show_icons=true&theme=tokyonight&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajayreddytech&theme=tokyonight&cache_seconds=1800&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayreddytech&layout=compact&theme=tokyonight&count_private=true)  
-
----
-
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=ajayreddytech&theme=tokyonight&margin-w=10&margin-h=10&count_private=true)
-
----
-
-## 📈 Activity
-![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayreddytech&theme=tokyo-night&range=year&count_private=true)
-
